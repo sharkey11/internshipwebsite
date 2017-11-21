@@ -1,1 +1,25 @@
 /*hey*/
+h1 {
+    color: blue;
+}
+
+.topContainer {
+    width: 100%;
+    display: flex;
+}
+
+.header {
+    text-align: center;
+    /* font-size: 48px; */
+    flex: 1;
+}
+
+/* .sidebar {
+    flex: 1;
+} */
+.button {
+    /* flex: 1; */
+    margin-left: 40px !important;
+    margin-right: 40px !important;
+    
+}
